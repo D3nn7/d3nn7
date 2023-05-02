@@ -6,33 +6,4 @@
 the Founder and CEO of [Slynite](https://slynite.com) & [deine-Landschaft](https://deine-landschaft.de). My vision is to make the internet a more private and secure place where every user can decide for themselves what data they want to share. I want the company to be transparent and only use the data they need.
 
 I think open source is a great solution to show everyone what a product or software does with the user's data.
-
-  <thead>
-    <tr>
-      <th>Top 5 Tracks</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="https://d3nn7.vercel.app/top-tracks?i=1&open"><img src="https://d3nn7.vercel.app/top-tracks?i=1" width="540" height="64"></a></td>
-    </tr>
-    <tr></tr> <!-- hide gray row -->
-    <tr>
-      <td><a href="https://d3nn7.vercel.app/top-tracks?i=2&open"><img src="https://d3nn7.vercel.app/top-tracks?i=2" width="540" height="64"></a></td>
-    </tr>
-    <tr></tr> <!-- hide gray row -->
-    <tr>
-      <td><a href="https://d3nn7.vercel.app/top-tracks?i=3&open"><img src="https://d3nn7.vercel.app/top-tracks?i=3" width="540" height="64"></a></td>
-    </tr>
-    <tr></tr>
-    <tr>
-      <td><a href="https://d3nn7.vercel.app/top-tracks?i=4&open"><img src="https://d3nn7.vercel.app/top-tracks?i=4" width="540" height="64"></a></td>
-    </tr>
-    <tr></tr>
-    <tr>
-      <td><a href="https://d3nn7.vercel.app/top-tracks?i=5&open"><img src="https://d3nn7.vercel.app/top-tracks?i=5" width="540" height="64"></a></td>
-    </tr>
-  </tbody>
-</table>
-
 ![](https://hit.yhype.me/github/profile?user_id=79147263)
