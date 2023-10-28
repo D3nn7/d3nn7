@@ -1,21 +1,12 @@
 # Hey I'm Danny👋🏻
 
 <div align="left">
-  <a href="https://github.com/sponsors/D3nn7">
+  <a href="https://www.gitkraken.com/invite/6YBJWaor">
     <img
-      src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white"
-      alt="Sponsor me"
+      src="https://img.shields.io/badge/use%20gitkraken-30363D?style=for-the-badge&logo=gitkraken&logoColor=#white"
+      alt="Gitkraken Tool"
     />
   </a>
-  <a href="[Use Gitkraken (referr)](https://www.gitkraken.com/invite/6YBJWaor)" style="color:blue;" >
-    <img
-      src="https://www.gitkraken.com/wp-content/uploads/2021/12/gitkraken-icon-stencil-color.svg"
-      alt="Visit me on Slynite Office"
-      height25
-      width=25
-    />
-  </a>
-  Use Gitkraken (referral) https://www.gitkraken.com/invite/6YBJWaor
 </div>
 
 the Founder and CEO of [Slynite](https://slynite.com) & [deine-Landschaft](https://deine-landschaft.de). My vision is to make the internet a more private and secure place where every user can decide for themselves what data they want to share. I want the company to be transparent and only use the data they need.
