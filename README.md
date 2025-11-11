@@ -1,6 +1,6 @@
 # Hey I'm Danny👋🏻
 
-the Founder and CEO of [Slynite](https://slynite.com) My vision is to make the internet a more private and secure place where users can decide what data they want to share.
+the Founder of [Slynite](https://slynite.com) My vision is to make the internet a more private and secure place where users can decide what data they want to share.
 
 In my opinion, open source is a great solution to show everyone what a product or software does with the user's data.
 
